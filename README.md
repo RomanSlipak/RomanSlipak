@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/RomanSlipak/RomanSlipak/raw/main/1212121212.gif)
+![Alt Text](https://github.com/RomanSlipak/RomanSlipak/raw/main/12.gif)
 
 ⌨️ Hi, I'm @RomanSlipak
 
