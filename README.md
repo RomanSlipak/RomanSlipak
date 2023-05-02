@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/RomanSlipak/RomanSlipak/raw/main/7iMX.gif)
+![Alt Text](https://github.com/RomanSlipak/RomanSlipak/raw/main/TK from 凛として時雨 『katharsis』 - “東京喰種トーキョーグール-re” 最終章OP.mp4)
 
 ⌨️ Hi, I'm @RomanSlipak
 
