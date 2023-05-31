@@ -1,5 +1,5 @@
 ![Alt Text](https://github.com/RomanSlipak/RomanSlipak/raw/main/12.gif)
-
+![Alt Text](https://github.com/RomanSlipak/RomanSlipak/raw/main/video_2023-05-31_10-40-26.gif)
 ⌨️ Hi, I'm @RomanSlipak
 
 🐍 I'm interested in python
