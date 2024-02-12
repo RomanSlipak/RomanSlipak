@@ -2,7 +2,7 @@
 
 ⌨️ Hi, I'm @RomanSlipak
 
-🐍 I'm interested in python
+📝I want to become a good author.
 
 📚 Now I'm studying
 
