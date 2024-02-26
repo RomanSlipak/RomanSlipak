@@ -16,6 +16,8 @@
   <img src=https://github.com/RomanSlipak/RomanSlipak/raw/main/photo_1.jpg
     height="200"
   />
+  <img src=https://github.com/RomanSlipak/RomanSlipak/raw/main/photo_2.jpg
+    height="200"
 </h1>
 
 🔎 (12.02.2024) I'm 17 years old, I'm from Ukraine, I also have a nickname R.O.I.Z. or Roiz-u, which I use on YouTube and post my songs there, if anyone is interested, here is one of my channels: (https://www.youtube.com/channel/UC4A7N6hVIY6cLoajVM-h-lw). 
