@@ -14,7 +14,5 @@
 I love listening to music, especially 凛として時雨, and I'm also writing a novel.
 If anyone knows where I can post my novel, it would be great if you write to me in Telegram to "https://t.me/Roizu". I love games, even though I don't play them. I am still studying (in my 2nd year).
 
-[![My Telegram:](https://t.me/Roizu)
-
 
 ![Alt Text](https://github.com/RomanSlipak/RomanSlipak/raw/main/video_2023-05-31_10-40-26.gif)
