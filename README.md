@@ -1,5 +1,8 @@
 ![Alt Text](https://github.com/RomanSlipak/RomanSlipak/raw/main/12.gif)
 
+<h1 align="center">
+  Hi!
+</h1>
 ⌨️ Hi, I'm @RomanSlipak
 
 📝 I want to become a good author.
