@@ -13,7 +13,7 @@
 ✉️ contact me (https://t.me/Roizu)
 
 
-<h1 align="center">
+<h1>
   <img src=https://github.com/RomanSlipak/RomanSlipak/raw/main/photo_1.jpg
     height="200"
   />
