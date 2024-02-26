@@ -1,6 +1,6 @@
 
 
-<h2>I love 凛として時雨</h2>
+<h2>I love 凛として時雨:</h2>
 
 ![Alt Text](https://github.com/RomanSlipak/RomanSlipak/raw/main/video_2024-02-26_13-54-49.gif)
 
