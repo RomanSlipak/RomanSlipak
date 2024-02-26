@@ -14,7 +14,7 @@
 
 <h1 align="center">
   <img src=https://github.com/RomanSlipak/RomanSlipak/raw/main/photo_1.jpg
-    height="100"
+    height="200"
   />
 </h1>
 
