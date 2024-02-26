@@ -13,7 +13,14 @@
 ✉️ contact me (https://t.me/Roizu)
 
 
-
+<h1 align="center">
+  <img src=https://github.com/RomanSlipak/RomanSlipak/raw/main/photo_1.jpg
+    height="200"
+  />
+    <img src=https://github.com/RomanSlipak/RomanSlipak/raw/main/photo_2.jpg
+    height="200"
+  />
+</h1>
 
 
 My name is Roman Slipak, at the moment (26.02.2024) I am 17 years old. 
