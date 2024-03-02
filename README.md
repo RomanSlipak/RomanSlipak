@@ -45,5 +45,5 @@
 
 
 ![Alt Text](https://github.com/RomanSlipak/RomanSlipak/raw/main/video_2023-05-31_10-40-26.gif)
-<a class="MyTelegram" href="https://t.me/Roizu">✉️ Contact.</a>
+
 
