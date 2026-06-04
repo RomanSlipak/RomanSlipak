@@ -1,27 +1,44 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:3a0ca3&height=180&section=header&text=Roman%20Slipak&fontSize=40&fontColor=ffffff" />
+<h2>I love 凛として時雨:</h2>
+
+![Alt Text](https://github.com/RomanSlipak/RomanSlipak/raw/main/video_2024-02-26_13-54-49.gif)
+
+<!DOCTYPE html>
+<html lang="en">
+<title>Hello!</title>
+<head>
+    <style>
+        body {
+            font-family: ISOCPEUR, sans-serif;
+            font-size: 24px;
+            color: #0000сс;
+            text-align: center;
+            padding: 50px;
+            border: 2px solid #4B0082;
+            border-radius: 15px;
+            margin: 50px;
+            background-color: #0000сс;
+        }
+    </style>
+</head>
+<body>
+    <h1>⌨️ Hi, I'm @RomanSlipak</h1>
+    <p>📝 I want to become a good author.<br>📚 Now I'm studying<br>🤝 I invite you to cooperate<br>My name is Roman Slipak, at the moment (26.02.2024) I am 17 years old. I really like 凛として時雨 music, I respect TK.</p>
+    <a class="MyTelegram" href="https://t.me/Roizu">✉️ Contact me?</a>
+</body>
+</html>
+ 
+
+  <a href="https://github.com/RomanSlipak">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=RomanSlipak&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+  </a>
+  <a href="https://github.com/RomanSlipak">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=RomanSlipak&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=signal+unstable...;memory+fragments+loading...;live+at+the+edge+of+code" />
-</p>
 
----
-
-## ◼️ LIVE FRAGMENT
-
-```txt
-[identity]
-roman_slipak.exe
-
-[status]
-unstable / evolving / learning
-
-[aesthetic]
-glass / blur / noise / motion residue
-
-[influence]
-ling tosite sigure / TK / digital distortion
-
-[mindstate]
-"sound turned into code"
+![Alt Text](https://github.com/RomanSlipak/RomanSlipak/raw/main/video_2023-05-31_10-40-26.gif)
