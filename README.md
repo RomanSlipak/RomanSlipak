@@ -4,21 +4,6 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<title>Hello!</title>
-<head>
-    <style>
-        body {
-            font-family: ISOCPEUR, sans-serif;
-            font-size: 24px;
-            color: #0000сс;
-            text-align: center;
-            padding: 50px;
-            border: 2px solid #4B0082;
-            border-radius: 15px;
-            margin: 50px;
-            background-color: #0000сс;
-        }
-    </style>
 </head>
 <body>
     <h1>⌨️ Hi, I'm @RomanSlipak</h1>
